@@ -1,0 +1,28 @@
+[{
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 99,
+    "doubts": 100,
+    "bgColor": "bg-[#d1fae5]",
+    "btnColor": "bg-[#22c55e]",
+    "inputPlaceholder": "Coupon"
+  },
+  {
+    "id": 2,
+    "name": "Pro Plan",
+    "price": 199,
+    "doubts": 300,
+    "bgColor": "bg-[#bfdbfe]",
+    "btnColor": "bg-[#3b82f6]",
+    "inputPlaceholder": "Coupon"
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 499,
+    "doubts": 800,
+    "bgColor": "bg-[#fdba74]",
+    "btnColor": "bg-[#f97316]",
+    "inputPlaceholder": "Coupon"
+  }
+]
